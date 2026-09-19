@@ -33,13 +33,10 @@ git clone https://github.com/M-Amine01/modern-QML-thermostat-interface.git
 
 ```
 
-2.Open the project with Qt Creator.
-
-3.Configure the project with a Qt 6 kit.
-
-4.Build the project.
-
-5.Run the application.
+2. Open the project with Qt Creator.
+3. Configure the project with a Qt 6.8+ kit.
+4. Build the project.
+5. Run the application.
 
 ## Project Structure
 
@@ -58,8 +55,3 @@ modern-QML-thermostat-interface/
 ├── temperture.h
 
 └── README.md
-
-## License
-
-This project is open source.
-
