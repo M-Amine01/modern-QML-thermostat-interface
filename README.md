@@ -30,13 +30,13 @@ git clone https://github.com/M-Amine01/temperature-control.git
 
 ## Steps 
 
-1.Open the project with Qt Creator.
+2.Open the project with Qt Creator.
 
-2.Configure the project with a Qt 6 kit.
+3.Configure the project with a Qt 6 kit.
 
-3.Build the project.
+4.Build the project.
 
-4.Run the application.
+5.Run the application.
 
 ## Project Structure
 
