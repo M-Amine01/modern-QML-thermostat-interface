@@ -28,8 +28,6 @@ git clone https://github.com/M-Amine01/temperature-control.git
 
 ```
 
-## Steps 
-
 2.Open the project with Qt Creator.
 
 3.Configure the project with a Qt 6 kit.
