@@ -19,7 +19,7 @@ A simple desktop temperature controller built with Qt, QML, and C++.
 - CMake
 - A C++ compiler
 
-## Screen Shots
+## Screenshots
 
 
 ![image alt](https://github.com/M-Amine01/modern-QML-thermostat-interface/blob/8669c91327b23bc0116635983e0c6295ec2958f7/screenShot.png)
