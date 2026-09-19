@@ -19,6 +19,11 @@ A simple desktop temperature controller built with Qt, QML, and C++.
 - CMake
 - A C++ compiler
 
+## Screen Shots
+
+
+![image alt](
+
 ## How to Build
 
 1. Clone the repository:
