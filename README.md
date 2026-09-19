@@ -31,8 +31,11 @@ git clone https://github.com/M-Amine01/temperature-control.git
 ## Steps 
 
 1.Open the project with Qt Creator.
+
 2.Configure the project with a Qt 6 kit.
+
 3.Build the project.
+
 4.Run the application.
 
 ## Project Structure
@@ -40,8 +43,13 @@ git clone https://github.com/M-Amine01/temperature-control.git
 modern-QML-thermostat-interface/
 │
 ├── CMakeLists.txt
+
 ├── main.cpp
+
 ├── Main.qml
+
 ├── temperture.cpp
+
 ├── temperture.h
+
 └── README.md
