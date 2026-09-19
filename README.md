@@ -41,7 +41,9 @@ git clone https://github.com/M-Amine01/temperature-control.git
 ## Project Structure
 
 modern-QML-thermostat-interface/
+
 │
+
 ├── CMakeLists.txt
 
 ├── main.cpp
