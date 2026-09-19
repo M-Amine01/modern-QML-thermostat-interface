@@ -27,14 +27,14 @@ A simple desktop temperature controller built with Qt, QML, and C++.
 git clone https://github.com/M-Amine01/temperature-control.git
 
 ```
-#Steps 
+##Steps 
 
 1.Open the project with Qt Creator.
 2.Configure the project with a Qt 6 kit.
 3.Build the project.
 4.Run the application.
 
-#Project Structure
+##Project Structure
 
 modern-QML-thermostat-interface/
 │
