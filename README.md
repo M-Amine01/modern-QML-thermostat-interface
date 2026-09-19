@@ -29,7 +29,7 @@ A simple desktop temperature controller built with Qt, QML, and C++.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/M-Amine01/temperature-control.git
+git clone https://github.com/M-Amine01/modern-QML-thermostat-interface.git
 
 ```
 
