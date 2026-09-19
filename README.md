@@ -50,6 +50,10 @@ modern-QML-thermostat-interface/
 
 ├── temperture.cpp
 
+## License
+
+This project is open source.
+
 ├── temperture.h
 
 └── README.md
