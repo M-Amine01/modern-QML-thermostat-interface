@@ -22,7 +22,7 @@ A simple desktop temperature controller built with Qt, QML, and C++.
 ## Screenshots
 
 
-![image alt](https://github.com/M-Amine01/modern-QML-thermostat-interface/blob/8669c91327b23bc0116635983e0c6295ec2958f7/screenShot.png)
+![image alt]([https://github.com/M-Amine01/modern-QML-thermostat-interface/blob/8669c91327b23bc0116635983e0c6295ec2958f7/screenShot.png](https://github.com/M-Amine01/modern-QML-thermostat-interface/blob/5828dd10d187817179033c68c096670d315b8f92/picture.png))
 
 ## How to Build
 
